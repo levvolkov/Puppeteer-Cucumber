@@ -5,7 +5,7 @@
   "scripts": {
     "test": "jest --runInBand",
     "cucumber": "cucumber-js",
-    "test:watch": "jest --watch" 
+    "test:watch": "jest --watch"
   },
   "repository": {
     "type": "git",
@@ -19,8 +19,8 @@
   "homepage": "https://github.com/LevVolkov/Puppeteer-Cucumber#readme",
   "description": "",
   "devDependencies": {
-    "chai": "^5.1.1",
-    "cucumber": "^6.0.7",
+    "chai": "^4.3.4",
+    "cucumber": "^7.0.0-rc.0",
     "jest": "^29.7.0",
     "jest-puppeteer": "^10.0.1",
     "puppeteer": "^22.13.0"
